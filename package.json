@@ -103,6 +103,8 @@
     "minimist": "^1.2.0"
   },
   "dependencies": {
-    "del": "^3.0.0"
+    "connect": "^3.6.6",
+    "del": "^3.0.0",
+    "serve-static": "^1.13.2"
   }
 }
